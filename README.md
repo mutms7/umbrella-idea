@@ -1,4 +1,7 @@
 # Umbrella Share
+<img width="572" height="436" alt="um1 0-removebg-preview" src="https://github.com/user-attachments/assets/f20cd8e5-5c55-40fc-b1ac-115250a27020" />
+
+
 Welcome to Umbrella Share, a hackathon project by university of Waterloo students.
 
 Umbrella Share lets people borrow umbrellas with their WATCard (A University of Waterloo student ID).
